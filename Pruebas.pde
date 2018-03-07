@@ -3,6 +3,6 @@ void setup(){
 }
 
 void draw(){
-  background(150);
+  background(230);
   ellipse( mouseX, mouseY, 30, 30);
 }
