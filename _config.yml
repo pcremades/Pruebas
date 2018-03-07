@@ -1,7 +1,8 @@
 title: Minimal theme
 description: Minimal is a theme for GitHub Pages.
-url:"https://pcremades.github.io"
-baseurl:"/Pruebas"
+url: "https://pcremades.github.io"
+baseurl: "/Pruebas"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+#gems: jekyll-seo-tag
