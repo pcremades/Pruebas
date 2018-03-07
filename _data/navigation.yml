@@ -1,0 +1,14 @@
+# - title: "Info"
+#   url: "/posts.html"
+
+- title: "Clases"
+  url: "/lessons/"
+
+- title: "Biblio"
+  url: "/resources.html"
+
+- title: "Data"
+  url: "/datasets.html"
+
+- title: "Sobre la materia"
+url: "/about.html"
